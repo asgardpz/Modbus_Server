@@ -20,9 +20,9 @@ Detail畫面
 - [ ] Log：紀錄Log並可查看
 - [ ] OK：關閉畫面
 
-![1](https://github.com/asgardpz/Modbus_Server/blob/master/Image/2.png)
+![1](https://github.com/asgardpz/Modbus_Server/blob/master/Image/2.PNG)
 
 ```<language>
 Log紀錄：依年月日/ID為命名規則儲存訊息 
 ```
-![1](https://github.com/asgardpz/Modbus_Server/blob/master/Image/3.png)
+![1](https://github.com/asgardpz/Modbus_Server/blob/master/Image/3.PNG)

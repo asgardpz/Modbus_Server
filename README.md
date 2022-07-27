@@ -1,4 +1,33 @@
 # Modbus Server
+Use Modbus TCP as the Server to receive messages from the Client
+
+Development platform: VS2019
+
+Programming Language: C# WPF
+
+```<language>
+Program main screen
+````
+- [ ] Start: Server starts to monitor and receive messages
+- [ ] End: Server stops monitoring and does not receive messages
+- [ ] Information: Update the corresponding information according to the client's information, click on each station information to display the Detail screen
+
+![1](https://github.com/asgardpz/Modbus_Server/blob/master/Image/1.PNG)
+
+```<language>
+Detail screen
+````
+- [ ] Log: record Log and view it
+- [ ] OK: closes the screen
+
+![1](https://github.com/asgardpz/Modbus_Server/blob/master/Image/2.PNG)
+
+```<language>
+Log record: save messages according to the year, month, day/ID for naming rules
+````
+![1](https://github.com/asgardpz/Modbus_Server/blob/master/Image/3.PNG)
+
+# Modbus Server
 使用Modbus TCP當Server，接收Client的訊息
 
 開發平台：VS2019
